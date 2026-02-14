@@ -2,7 +2,10 @@
 
 RachnaX is a modern front-end web application designed to help students and beginner creators transform raw ideas into structured, platform-ready content.
 This project focuses on clarity, guided thinking, and clean user experience using modern web technologies.
-Live Demo: [Click here](https://ansariheshamraza.github.io/RachnaX-Frontend-Project/)
+
+---
+
+### Live Demo: [Click here](https://ansariheshamraza.github.io/RachnaX-Frontend-Project/)
 
 ---
 

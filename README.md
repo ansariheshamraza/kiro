@@ -5,7 +5,7 @@ This project focuses on clarity, guided thinking, and clean user experience usin
 
 ---
 
-### Live Demo: [Click here](https://ansariheshamraza.github.io/RachnaX-Frontend-Project/)
+### Live Demo: [Click here](https://ansariheshamraza.github.io/RachnaX/)
 
 ---
 
